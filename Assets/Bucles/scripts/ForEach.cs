@@ -21,6 +21,7 @@ public class ForEach : MonoBehaviour
 
     IEnumerator Mover()
     {
+        //Infinite loop
         while (true)
         {
             foreach (Vector3 posicionObjeto in posicionesObjeto)
@@ -30,6 +31,9 @@ public class ForEach : MonoBehaviour
             }
         }
     }
+
+
+
     // Update is called once per frame
     void Update()
     {

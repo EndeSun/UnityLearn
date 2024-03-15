@@ -65,6 +65,11 @@
     <Compile Include="Assets/Tema2/MovimientoCubo.cs" />
     <Compile Include="Assets/Bucles/scripts/Espiral.cs" />
     <Compile Include="Assets/Bucles/scripts/ForEach.cs" />
+    <Compile Include="Assets/Estructuras de control/scripts/Escalera.cs" />
+    <Compile Include="Assets/Estructuras de control/scripts/cuadradoCubo.cs" />
+    <Compile Include="Assets/Estructuras de control/scripts/Piramide.cs" />
+    <Compile Include="Assets/Estructuras de control/scripts/cuboPiramide.cs" />
+    <Compile Include="Assets/Estructuras de control/scripts/Formas.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
