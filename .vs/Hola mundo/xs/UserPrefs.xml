@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{FCF36396-43CB-E789-4C99-CC2E74F1D1FE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Bucles/scripts/ForEach.cs">
+    <Files>
+      <File FileName="Assets/Bucles/scripts/ForEach.cs" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hola mundo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Bucles" expanded="True">
+                <Node name="scripts" expanded="True">
+                  <Node name="ForEach.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Primer ejercicio" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a06137c2-c648-485c-868e-a5882dcde228" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
